@@ -13,7 +13,7 @@ val 3lv27 = MyProfile(
         devOps = List("Docker", "Kubernetes", "Argo", "Terraform"),
         mlOps = List("MLFlow", "Hydra", "Kubeflow", "DVC", "Weights&Biases"),
         ml = List("Pytorch", "Scikit-learn", "pandas", "OpenCV", "numpy"),
-        DataEngineering = List("ETL", "ELT", "Data Lake", "Data Warehouse", "Argo Workflows", "Kafka", "Flink")
+        dataEngineering = List("ETL", "ELT", "Data Lake", "Data Warehouse", "Argo Workflows", "Kafka", "Flink")
         others = List("Web Scraping","Git")
     )
 )
