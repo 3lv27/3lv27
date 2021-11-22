@@ -1,4 +1,7 @@
 ### Hi there 👋
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+[![Linkedin: Elvin Gomez](https://img.shields.io/badge/-3lv27-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elvingomezmejia/)](https://www.linkedin.com/in/elvingomezmejia/)
+[![GitHub 3lv27](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/3lv27)
 
 ```scala
 val 3lv27 = MyProfile(
