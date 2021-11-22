@@ -8,11 +8,11 @@ val 3lv27 = MyProfile(
     pronouns = ("He" || "Him"),
     code = List("Python", "Scala", "Go"),
     technologies = Stack(
-        databases = List("MongoDB", "PostgreSQL", "SQL Server", "BigQuery"),
+        databases = List("MongoDB", "PostgreSQL", "BigQuery"),
         cloud = List(AWS, GCP),
         devOps = List("Docker", "Kubernetes", "Argo", "Terraform"),
-        MLOps = List("MLFlow", "Hydra", "Kubeflow", "DVC"),
-        ML = List("Pytorch", "Scikit-learn", "pandas", "OpenCV", "numpy"),
+        mlOps = List("MLFlow", "Hydra", "Kubeflow", "DVC", "Weights&Biases"),
+        ml = List("Pytorch", "Scikit-learn", "pandas", "OpenCV", "numpy"),
         DataEngineering = List("ETL", "ELT", "Data Lake", "Data Warehouse", "Argo Workflows", "Kafka", "Flink")
         others = List("Web Scraping","Git")
     )
