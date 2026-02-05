@@ -75,12 +75,10 @@ const elvin = {
 
 
 <br/>
-
-
 ⭐ Featured: Fine-tuning LLMs with Unsloth
+
 [![Watch this video on YouTube](https://img.youtube.com/vi/--l1HXN6gXc/0.jpg)](https://www.youtube.com/watch?v=--l1HXN6gXc)
 </div>
-
 
 
 ---
@@ -138,14 +136,13 @@ Workshops, meetups, and community sessions on AI & engineering.
 
 🗺️ Timeline
 
-2018  → Autonomous drones (Saturdays.ai · Award)
+```text
+2018  → Autonomous drone swarm (Saturdays.ai · Award)
 2019  → Teaching Deep Learning
-2020–2022 → Data platforms
-2023–Now → GenAI & Agents
-Today → Founder · Educator · Community Builder
-
-
-
+2020–2022 → Data platforms & lakehouse systems
+2023–Now → GenAI, agents, voice, LLMOps
+Today → Founder · Educator · Content creator
+```
 <div align="center">
 
 
