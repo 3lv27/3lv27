@@ -77,7 +77,7 @@ const elvin = {
 <br/><br/>
 
 ⭐ **Featured:** Fine‑tuning LLMs with Unsloth  
-▶️ https://youtu.be/--l1HXN6gXc
+▶️ [![Watch this video on YouTube](https://img.youtube.com/vi/--l1HXN6gXc/0.jpg)](https://www.youtube.com/watch?v=--l1HXN6gXc)
 
 </div>
 
