@@ -74,10 +74,10 @@ const elvin = {
   <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 ⭐ **Featured:** Fine‑tuning LLMs with Unsloth  
-▶️ [![Watch this video on YouTube](https://img.youtube.com/vi/--l1HXN6gXc/0.jpg)](https://www.youtube.com/watch?v=--l1HXN6gXc)
+[![Watch this video on YouTube](https://img.youtube.com/vi/--l1HXN6gXc/0.jpg)](https://www.youtube.com/watch?v=--l1HXN6gXc)
 
 </div>
 
