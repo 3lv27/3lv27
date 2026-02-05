@@ -1,6 +1,3 @@
-<!-- =======================
-      HERO (TOP)
-======================== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Elvin%20G%C3%B3mez&fontAlign=50&fontAlignY=35&desc=AI%20Architect%20%7C%20Founder%20%7C%20Educator&descAlign=50&descAlignY=55&animation=twinkling&color=0:0ea5e9,100:7c3aed" />
@@ -34,131 +31,150 @@
 
 ```ts
 const elvin = {
-  roles: ["Founder @ RAISE Lab", "AI Architect", "Product Engineer", "Educator"],
+  roles: ["Founder @ RAISE Lab", "AI Architect", "Educator", "Community Builder"],
   basedIn: "Spain",
 
   since: {
-    ai: 2018,          // autonomous drone swarm (Saturdays.ai · awarded)
-    teaching: 2019,    // deep learning + data engineering instructor
-    data: "7+ years"   // lakehouse platforms, batch + streaming
+    ai: 2018,
+    teaching: 2019,
+    data: "7+ years"
   },
 
   focusNow: [
     "Agent systems",
     "Voice + chat experiences",
     "LLMOps (tracing, prompts, evals)",
-    "Data → AI foundations for real products"
+    "AI-assisted development workflows"
   ],
 
   stack: {
     languages: ["Python", "TypeScript", "Node.js", "Scala", "Go"],
     ai: ["PyTorch", "Hugging Face", "LangGraph", "Langfuse", "Unsloth"],
-    dataLakehouse: [
-      "PostgreSQL",
-      "Kafka",
-      "Spark (batch)",
-      "Flink (streaming)",
-      "Iceberg",
-      "Parquet",
-      "Snowflake",
-      "Airflow"
-    ],
-    cloudDevOps: [
-      "GCP (default)",
-      "AWS",
-      "Azure",
-      "Docker",
-      "Terraform",
-      "GitHub Actions"
-    ]
+    dataLakehouse: ["PostgreSQL", "Kafka", "Spark", "Flink", "Iceberg", "Parquet", "Snowflake", "Airflow"],
+    cloudDevOps: ["GCP", "AWS", "Azure", "Docker", "Terraform", "GitHub Actions"]
   },
 
   beliefs: [
     "No hype — ship real systems",
-    "Great AI needs great data",
-    "You learn fastest by building + teaching"
+    "Great AI needs great communities",
+    "You learn fastest by building together"
   ]
 };
 ```
 
 ---
 
-## 📺 Learn with me on YouTube
+📺 Learn with Me (YouTube)
 
 <div align="center">
+
 
 <a href="https://www.youtube.com/channel/UC1YEuQpT5QHRxHY8_ArquiQ?sub_confirmation=1">
   <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
+
 <br/>
 
-⭐ **Featured:** Fine‑tuning LLMs with Unsloth  
-[![Watch this video on YouTube](https://img.youtube.com/vi/--l1HXN6gXc/0.jpg)](https://www.youtube.com/watch?v=--l1HXN6gXc)
+
+⭐ Featured: Fine-tuning LLMs with Unsloth
 
 </div>
 
+
+
 ---
 
-## 🧠 What I build
+🌍 Community in Action
+
+<div align="center">
+
+
+<img src="./assets/community/meetup-1.jpg" width="45%" />
+<img src="./assets/community/meetup-2.jpg" width="45%" />
+
+
+</div>
+
+
+<p align="center">
+Workshops, meetups, and community sessions on AI & engineering.
+</p>
+
+
+
+---
+
+🧠 What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Product‑First AI Systems
-- Agent architectures & workflows (LangGraph)
-- Voice + chat multi‑modal UX
-- Reliability: tracing, evals, structured outputs
-- Production-grade integrations
+
+🚀 Product-First AI Systems
+	•	Agent workflows (LangGraph)
+	•	Voice + chat systems
+	•	LLMOps & evaluation
+	•	Production reliability
 
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ Data & Lakehouse Platforms
-- Lakehouse architectures (Iceberg / Parquet)
-- Batch pipelines (Spark)
-- Real‑time processing (Kafka + Flink)
-- Orchestration (Airflow) + Warehousing (Snowflake)
+
+🏗️ Data & Lakehouse Platforms
+	•	Iceberg / Parquet lakehouses
+	•	Spark (batch) + Flink (streaming)
+	•	Kafka pipelines
+	•	Airflow + Snowflake
 
 </td>
 </tr>
 </table>
 
+
+
 ---
 
-## 🗺️ Timeline
+🗺️ Timeline
 
-```text
-2018  → Autonomous drone swarm (Saturdays.ai · Award)
+2018  → Autonomous drones (Saturdays.ai · Award)
 2019  → Teaching Deep Learning
-2020–2022 → Data platforms & lakehouse systems
-2023–Now → GenAI, agents, voice, LLMOps
-Today → Founder · Educator · Content creator
-```
+2020–2022 → Data platforms
+2023–Now → GenAI & Agents
+Today → Founder · Educator · Community Builder
+
 
 ---
 
-## 🚀 Featured Work & Impact
+🚀 Featured Work
 
 <div align="center">
+
 
 <a href="https://github.com/codingmindset/CodingMindset-YouTube">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=codingmindset&repo=CodingMindset-YouTube&hide_border=true" />
 </a>
 
+
 <a href="https://github.com/3lv27">
   <img src="https://github-readme-stats.vercel.app/api?username=3lv27&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </a>
 
+
 </div>
+
+
 
 ---
 
+
 <div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0ea5e9,100:7c3aed&section=footer" />
 
-<i>Open to consulting, partnerships, and building ambitious AI products.</i>
+
+Open to collaborating on AI systems, community initiatives, and education.
 
 </div>
