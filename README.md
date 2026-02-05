@@ -22,7 +22,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/🤖%20AI%20Since%202018-0d1117?style=flat&labelColor=7c3aed" />
-<img src="https://img.shields.io/badge/📊%206%2B%20Years%20Data-0d1117?style=flat&labelColor=0ea5e9" />
+<img src="https://img.shields.io/badge/📊%207%2B%20Years%20Data-0d1117?style=flat&labelColor=0ea5e9" />
 <img src="https://img.shields.io/badge/🎓%20300%2B%20Students-0d1117?style=flat&labelColor=7c3aed" />
 <img src="https://img.shields.io/badge/🧠%20LLMOps%20%2B%20Agents-0d1117?style=flat&labelColor=0ea5e9" />
 
@@ -36,6 +36,7 @@
 const elvin = {
   roles: ["Founder @ RAISE Lab", "AI Architect", "Product Engineer", "Educator"],
   basedIn: "Spain",
+
   since: {
     ai: 2018,          // autonomous drone swarm (Saturdays.ai · awarded)
     teaching: 2019,    // deep learning + data engineering instructor
@@ -52,8 +53,24 @@ const elvin = {
   stack: {
     languages: ["Python", "TypeScript", "Node.js", "Scala", "Go"],
     ai: ["PyTorch", "Hugging Face", "LangGraph", "Langfuse", "Unsloth"],
-    dataLakehouse: ["PostgreSQL", "Kafka", "Spark (batch)", "Flink (streaming)", "Iceberg", "Parquet", "Snowflake", "Airflow"],
-    cloudDevOps: ["GCP (default)", "AWS", "Azure", "Docker", "Terraform", "GitHub Actions"]
+    dataLakehouse: [
+      "PostgreSQL",
+      "Kafka",
+      "Spark (batch)",
+      "Flink (streaming)",
+      "Iceberg",
+      "Parquet",
+      "Snowflake",
+      "Airflow"
+    ],
+    cloudDevOps: [
+      "GCP (default)",
+      "AWS",
+      "Azure",
+      "Docker",
+      "Terraform",
+      "GitHub Actions"
+    ]
   },
 
   beliefs: [
@@ -90,10 +107,10 @@ const elvin = {
 <td width="50%" valign="top">
 
 ### 🚀 Product‑First AI Systems
-- Agent architectures & tool use (LangGraph)
+- Agent architectures & workflows (LangGraph)
 - Voice + chat multi‑modal UX
 - Reliability: tracing, evals, structured outputs
-- Integrations that survive production
+- Production-grade integrations
 
 </td>
 <td width="50%" valign="top">
@@ -122,12 +139,17 @@ Today → Founder · Educator · Content creator
 
 ---
 
-## 📈 GitHub (stable widgets)
+## 🚀 Featured Work & Impact
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=3lv27&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3lv27&layout=compact&hide_border=true&langs_count=8" />
+<a href="https://github.com/codingmindset/CodingMindset-YouTube">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codingmindset&repo=CodingMindset-YouTube&hide_border=true" />
+</a>
+
+<a href="https://github.com/3lv27">
+  <img src="https://github-readme-stats.vercel.app/api?username=3lv27&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+</a>
 
 </div>
 
