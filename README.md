@@ -1,158 +1,142 @@
-<h1 align="center">Hi 👋, I'm Elvin Gómez</h1>
-<h3 align="center">Founder · AI Architect · Product Engineer · Educator</h3>
+<!-- =======================
+      HERO (TOP)
+======================== -->
+<div align="center">
 
-<p align="center">
-Building production-grade AI systems, autonomous agents, and data-intensive products.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Elvin%20G%C3%B3mez&fontAlign=50&fontAlignY=35&desc=AI%20Architect%20%7C%20Founder%20%7C%20Educator&descAlign=50&descAlignY=55&animation=twinkling&color=0:0ea5e9,100:7c3aed" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/elvingomezmejia/">
-    <img src="https://img.shields.io/badge/LinkedIn-Elvin%20G%C3%B3mez-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://github.com/3lv27">
-    <img src="https://img.shields.io/github/followers/3lv27?label=Follow&style=social" />
-  </a>
-  <a href="https://www.youtube.com/channel/UC1YEuQpT5QHRxHY8_ArquiQ?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube" />
-  </a>
-</p>
-
----
-
-## 📺 Learn AI Engineering With Me
-
-<p align="center">
-<a href="https://www.youtube.com/channel/UC1YEuQpT5QHRxHY8_ArquiQ?sub_confirmation=1">
-  <img src="https://img.shields.io/badge/Subscribe%20on-YouTube-red?style=for-the-badge&logo=youtube" />
+<a href="https://www.linkedin.com/in/elvingomezmejia/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</p>
+<a href="https://github.com/3lv27">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UC1YEuQpT5QHRxHY8_ArquiQ?sub_confirmation=1">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
-On my channel I share:
+<br/><br/>
 
-- 🚀 Real-world AI Engineering
-- 🤖 Agent & Voice Systems
-- 📊 Data → AI → Product pipelines
-- 🧠 No-hype GenAI
-- 💼 Building startups with AI
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=820&lines=I+build+AI+systems+that+ship;Agents+%7C+Voice+%7C+Data+Platforms;From+prototype+to+production" />
 
-> Practical AI. Built to ship. Built to scale.
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/🤖%20AI%20Since%202018-0d1117?style=flat&labelColor=7c3aed" />
+<img src="https://img.shields.io/badge/📊%206%2B%20Years%20Data-0d1117?style=flat&labelColor=0ea5e9" />
+<img src="https://img.shields.io/badge/🎓%20300%2B%20Students-0d1117?style=flat&labelColor=7c3aed" />
+<img src="https://img.shields.io/badge/🧠%20LLMOps%20%2B%20Agents-0d1117?style=flat&labelColor=0ea5e9" />
 
-## 🚀 About Me
-
-- 🧠 Founder at **RAISE Lab** – Applied AI & GenAI Systems
-- 🤖 Working with AI since 2018 (Autonomous Systems → LLMs)
-- 📊 6+ years in Data Engineering & Lakehouse architectures
-- 👨‍🏫 Former instructor in Data Engineering & Deep Learning
-- 🎓 Taught 300+ students (including public programs)
-- 🌍 Based in Spain · Working globally
-
-I design AI systems that **integrate deeply with data, scale in production, and drive business value**.
+</div>
 
 ---
 
-## 🗺️ My Journey
+## 🧑‍💻 Code Mode
 
-**2018** → Autonomous drone swarm system (Saturdays.ai · Awarded project)  
-**2019** → Teaching Deep Learning & Applied ML  
-**2020–2023** → Large-scale Data & Lakehouse Platforms  
-**2023–Now** → GenAI, Agents, Voice Systems & Products  
-**Today** → Founder, Educator, Content Creator  
+```ts
+const elvin = {
+  roles: ["Founder @ RAISE Lab", "AI Architect", "Product Engineer", "Educator"],
+  basedIn: "Spain",
+  since: {
+    ai: 2018,          // autonomous drone swarm (Saturdays.ai · awarded)
+    teaching: 2019,    // deep learning + data engineering instructor
+    data: "6+ years"   // lakehouse platforms, batch + streaming
+  },
 
-From robotics → data → AI → products → education.
+  focusNow: [
+    "Agent systems (LangGraph)",
+    "Voice + chat experiences",
+    "LLMOps (tracing, prompts, evals)",
+    "Data → AI foundations for real products"
+  ],
+
+  stack: {
+    languages: ["Python", "TypeScript", "Node.js", "Scala", "Go"],
+    ai: ["PyTorch", "Hugging Face", "LangGraph", "Langfuse", "Unsloth"],
+    dataLakehouse: ["PostgreSQL", "Kafka", "Spark (batch)", "Flink (streaming)", "Iceberg", "Parquet", "Snowflake", "Airflow"],
+    cloudDevOps: ["GCP (default)", "AWS", "Azure", "Docker", "Terraform", "GitHub Actions"]
+  },
+
+  beliefs: [
+    "No hype — ship real systems",
+    "Great AI needs great data",
+    "You learn fastest by building + teaching"
+  ]
+};
+```
 
 ---
 
-## 🎓 Teaching & Mentorship
+## 📺 Learn with me on YouTube
 
-- 👨‍🏫 Teaching AI & Data since 2019
-- 🏫 Former instructor in private academies
-- 🏛 Instructor in Catalan Government programs
-- 📚 300+ engineers trained
-- 🎥 Now scaling education online
+<div align="center">
 
-I believe mastery comes from **building + teaching + sharing in public**.
+<a href="https://www.youtube.com/channel/UC1YEuQpT5QHRxHY8_ArquiQ?sub_confirmation=1">
+  <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
----
+<br/><br/>
 
-## 📌 Featured Content
-
-### 🎯 Fine-Tuning LLMs in Practice (Unsloth)
-
-Hands-on fine-tuning walkthrough:
-
+⭐ **Featured:** Fine‑tuning LLMs with Unsloth  
 ▶️ https://youtu.be/--l1HXN6gXc
 
-Topics:
-- Dataset preparation
-- QLoRA / Unsloth setup
-- Training & evaluation
-- Deployment considerations
-
-More practical content on my YouTube channel.
+</div>
 
 ---
 
-## 🧩 What I'm Working On
+## 🧠 What I build
 
-- 🔊 Multichannel AI Agents (Voice + Chat)
-- 🏥 Medical & Triage Systems
-- 📈 AI Evaluation & Observability
-- ⚙️ Context Engineering
-- 🧠 Product-first AI Systems
-- 🎥 Content & Community
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🚀 Product‑First AI Systems
+- Agent architectures & tool use (LangGraph)
+- Voice + chat multi‑modal UX
+- Reliability: tracing, evals, structured outputs
+- Integrations that survive production
 
-## 🛠️ Stack (Curated)
+</td>
+<td width="50%" valign="top">
 
-### Core (What I Ship With)
-**Languages:** Python · TypeScript · Node.js  
-**AI Systems:** LangGraph · Hugging Face · PyTorch · Langfuse (LLMOps)  
-**Data / Lakehouse:** PostgreSQL · Kafka · Spark (Batch) · Iceberg · Parquet  
-**Cloud / DevOps:** GCP · Docker · Terraform · GitHub Actions  
+### 🏗️ Data & Lakehouse Platforms
+- Lakehouse architectures (Iceberg / Parquet)
+- Batch pipelines (Spark)
+- Real‑time processing (Kafka + Flink)
+- Orchestration (Airflow) + Warehousing (Snowflake)
 
----
-
-### Streaming & Production Toolkit
-**Real-Time Processing:** Apache Flink  
-**Orchestration:** Apache Airflow  
-**Warehousing:** Snowflake  
-**Quality & Reliability:** Structured outputs (Pydantic / JSON Schema) · Eval harnesses · Tracing & Metrics  
+</td>
+</tr>
+</table>
 
 ---
 
-### Experienced With
-AWS · Azure · Scala · Go
+## 🗺️ Timeline
+
+```text
+2018  → Autonomous drone swarm (Saturdays.ai · Award)
+2019  → Teaching Deep Learning
+2020–2022 → Data platforms & lakehouse systems
+2023–Now → GenAI, agents, voice, LLMOps
+Today → Founder · Educator · Content creator
+```
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub (stable widgets)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3lv27&show_icons=true&theme=transparent" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3lv27&theme=transparent" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=3lv27&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3lv27&layout=compact&hide_border=true&langs_count=8" />
 
----
-
-## 🤝 Let’s Work Together
-
-- 📺 YouTube → Learn with me
-- 💼 LinkedIn → Connect
-- ✉️ Newsletter → Coming soon
-
-Open to:
-
-✔️ Consulting  
-✔️ Startups  
-✔️ Partnerships  
-✔️ Education  
+</div>
 
 ---
 
-> “Great AI is built on great data, systems, and people.”
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0ea5e9,100:7c3aed&section=footer" />
+
+<i>Open to consulting, partnerships, and building ambitious AI products.</i>
+
+</div>
