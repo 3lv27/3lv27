@@ -39,11 +39,11 @@ const elvin = {
   since: {
     ai: 2018,          // autonomous drone swarm (Saturdays.ai · awarded)
     teaching: 2019,    // deep learning + data engineering instructor
-    data: "6+ years"   // lakehouse platforms, batch + streaming
+    data: "7+ years"   // lakehouse platforms, batch + streaming
   },
 
   focusNow: [
-    "Agent systems (LangGraph)",
+    "Agent systems",
     "Voice + chat experiences",
     "LLMOps (tracing, prompts, evals)",
     "Data → AI foundations for real products"
