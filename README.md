@@ -19,7 +19,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/🤖%20AI%20Since%202018-0d1117?style=flat&labelColor=7c3aed" />
-<img src="https://img.shields.io/badge/📊%207%2B%20Years%20Data-0d1117?style=flat&labelColor=0ea5e9" />
+<img src="https://img.shields.io/badge/📊%207%2B%20Years%20AI&Data-0d1117?style=flat&labelColor=0ea5e9" />
 <img src="https://img.shields.io/badge/🎓%20300%2B%20Students-0d1117?style=flat&labelColor=7c3aed" />
 <img src="https://img.shields.io/badge/🧠%20LLMOps%20%2B%20Agents-0d1117?style=flat&labelColor=0ea5e9" />
 
@@ -78,7 +78,7 @@ const elvin = {
 
 
 ⭐ Featured: Fine-tuning LLMs with Unsloth
-
+[![Watch this video on YouTube](https://img.youtube.com/vi/--l1HXN6gXc/0.jpg)](https://www.youtube.com/watch?v=--l1HXN6gXc)
 </div>
 
 
@@ -144,29 +144,6 @@ Workshops, meetups, and community sessions on AI & engineering.
 2023–Now → GenAI & Agents
 Today → Founder · Educator · Community Builder
 
-
----
-
-🚀 Featured Work
-
-<div align="center">
-
-
-<a href="https://github.com/codingmindset/CodingMindset-YouTube">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codingmindset&repo=CodingMindset-YouTube&hide_border=true" />
-</a>
-
-
-<a href="https://github.com/3lv27">
-  <img src="https://github-readme-stats.vercel.app/api?username=3lv27&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-</a>
-
-
-</div>
-
-
-
----
 
 
 <div align="center">
