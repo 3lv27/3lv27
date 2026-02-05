@@ -109,22 +109,20 @@ Workshops, meetups, and community sessions on AI & engineering.
 <tr>
 <td width="50%" valign="top">
 
-
-🚀 Product-First AI Systems
-	•	Agent workflows (LangGraph)
-	•	Voice + chat systems
-	•	LLMOps & evaluation
-	•	Production reliability
+### 🚀 Product‑First AI Systems
+- Agent workflows & architectures
+- Voice + chat multi‑modal UX
+- Reliability: tracing, evals, structured outputs
+- Integrations that survive production
 
 </td>
 <td width="50%" valign="top">
 
-
-🏗️ Data & Lakehouse Platforms
-	•	Iceberg / Parquet lakehouses
-	•	Spark (batch) + Flink (streaming)
-	•	Kafka pipelines
-	•	Airflow + Snowflake
+### 🏗️ Data & Lakehouse Platforms
+- Lakehouse architectures (Iceberg / Parquet)
+- Batch pipelines (Spark)
+- Real‑time processing (Kafka + Flink)
+- Orchestration (Airflow) + Warehousing (Snowflake)
 
 </td>
 </tr>
